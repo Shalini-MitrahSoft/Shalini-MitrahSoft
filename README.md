@@ -27,12 +27,12 @@ I focus on Java backend development, building REST APIs and strengthening my und
 
 ## Explore my Java repositories
 
-- [Java Basics](https://github.com/Shalini-MitrahSoft/Java-Basics)
-- [Java Tasks](https://github.com/Shalini-MitrahSoft/JAVA-TASKS)
-- [Access Modifiers](https://github.com/Shalini-MitrahSoft/Access-Modifier)
-- [ATM Denominations](https://github.com/Shalini-MitrahSoft/ATM-Denominations)
-- [Spring Boot](https://github.com/Shalini-MitrahSoft/Spring_Boot)
-- [Order Management System](https://github.com/Shalini-MitrahSoft/order-management-system)
+- [Java Basics](https://github.com/shalinimuthu7477/Java-Basics)
+- [Java Tasks](https://github.com/shalinimuthu7477/JAVA-TASKS)
+- [Access Modifiers](https://github.com/shalinimuthu7477/Access-Modifier)
+- [ATM Denominations](https://github.com/shalinimuthu7477/ATM-Denominations)
+- [Spring Boot](https://github.com/shalinimuthu7477/Spring_Boot)
+- [Order Management System](https://github.com/shalinimuthu7477/order-management-system)
 
 ---
 
