@@ -10,7 +10,7 @@ I focus on Java backend development, building REST APIs and strengthening my und
 | --- | --- |
 | Language | Java |
 | Frameworks | Spring Boot, Spring Cloud |
-| APIs | REST API development |
+| APIs | REST API development | Redis | Kafka | Monolithic & Microservices Applications
 | Build & development tools | Maven, Git, GitHub, Postman |
 
 ## Learning & practice
