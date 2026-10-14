@@ -10,7 +10,10 @@ I focus on Java backend development, building REST APIs and strengthening my und
 | --- | --- |
 | Language | Java |
 | Frameworks | Spring Boot, Spring Cloud |
-| APIs | REST API development | Redis | Kafka | Monolithic & Microservices Applications
+| APIs | REST API development |
+| Application architecture | Monolithic applications, Microservices |
+| Caching | Redis |
+| Messaging | Apache Kafka | Redis | Kafka | Monolithic & Microservices Applications
 | Build & development tools | Maven, Git, GitHub, Postman |
 
 ## Learning & practice
@@ -19,6 +22,8 @@ I focus on Java backend development, building REST APIs and strengthening my und
 - Access modifiers and code organization.
 - Problem solving through Java exercises.
 - Backend development with Spring Boot.
+- Building monolithic and microservices applications.
+- Caching with Redis and event-driven communication with Apache Kafka.
 
 ## Explore my Java repositories
 
